@@ -1,4 +1,6 @@
 Black Friday is a colloquial term for the Friday after Thanksgiving in the United States. 
 It traditionally marks the start of the Christmas shopping season in the United States. 
 Many stores offer highly promoted sales at discounted prices and often open early, 
-sometimes as early as midnight[2] or even on Thanksgiving
+sometimes as early as midnight[2] or even on Thanksgiving.
+
+Your task is clean merge this two dataset and clean it , prepare it for a model.
