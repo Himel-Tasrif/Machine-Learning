@@ -1,0 +1,3 @@
+What is Automated EDA in ML?
+Automated EDA provides automatic exploratory data analysis for the train data frame which is used to initialize AutoML.
+Python packages can automate the entire process and quickly extract insights from data sets..
