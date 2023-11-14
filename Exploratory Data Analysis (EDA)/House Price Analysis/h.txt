@@ -1,3 +1,5 @@
 In the case of house price prediction, we can use historical data on various features of a house, 
 such as its location, size, and amenities, to train a machine-learning model. Once the model is trained, 
 it can analyze new data on a given house and make a prediction of its market value
+
+here i am first analysis the data then do some feature engineering.
