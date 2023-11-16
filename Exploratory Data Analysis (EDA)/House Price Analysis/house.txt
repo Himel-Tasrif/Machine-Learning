@@ -3,4 +3,4 @@ such as its location, size, and amenities, to train a machine-learning model. On
 it can analyze new data on a given house and make a prediction of its market value
 
 here i am first analysis the data then do some feature engineering.
-here, there are two csv(train & test). first merge it and then analyse it.
+here, there are two csv(train & test). first merge it and then analyse it.....
