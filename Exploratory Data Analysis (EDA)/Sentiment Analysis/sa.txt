@@ -1,0 +1,1 @@
+This code is basically a comment dectection system is that comment positive or negative 
