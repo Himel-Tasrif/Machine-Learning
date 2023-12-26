@@ -1,1 +1,8 @@
-This code is basically a comment dectection system is that comment positive or negative 
+Short Description of Sentiment Analysis Task:
+Given:
+
+A supervised dataset of text and accompanying sentiment labels (positive or negative).
+Access to machine learning algorithms.
+Goal:
+
+Develop a model that accurately predicts the sentiment (positive or negative) of unseen text.
