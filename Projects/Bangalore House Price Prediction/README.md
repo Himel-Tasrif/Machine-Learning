@@ -1,4 +1,4 @@
-# Machine Learning
+# Bangalore House Price Prediction
 
 <figure style="text-align: center;">
   <img src="https://uploads-ssl.webflow.com/611b8930015cb4be59160e08/61a5e221adc0d6298f9add5d_machinelearning.jpeg" alt="Machine Learning" width="300" height="200">
