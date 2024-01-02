@@ -1,5 +1,4 @@
-According to a 2019 study, property prices in Bengaluru fell by almost 5% in the second half of the year. However, 
-a 2022 Reuters poll of property analysts predicted that property prices in India would increase by 7.5% in 2022
+According to a 2019 study, property prices in Bengaluru fell by almost 5% in the second half of the year.
 
 
 Here, i am try to predict a house price based on 
@@ -7,3 +6,4 @@ Here, i am try to predict a house price based on
 2. Bedroom
 3. Bathroom
 4. Balcony
+5. Location
