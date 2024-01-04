@@ -1,1 +1,1 @@
-sdfbjdsfbjdsf
+The Face Recognition System with Machine Learning is a powerful project designed to harness the capabilities of artificial intelligence for facial identification.
