@@ -1,1 +1,16 @@
+Outlier detection is an iterative process that often involves a combination of methods to ensure comprehensive coverage. The choice of technique depends on the characteristics of the data, the context of the analysis, and the goals of the modeling task. Proper handling of outliers contributes to the robustness and reliability of statistical analyses and machine learning models.
 
+Key aspects of outlier detection include:
+
+**Identification Methods:
+
+1. Statistical Methods: Using statistical measures such as z-scores, which quantify how many standard deviations a data point is from the mean. Points beyond a certain threshold (e.g., ±3 standard deviations) may be considered outliers.
+2. Interquartile Range (IQR): Calculating the range between the first and third quartiles and flagging data points outside a specified range as outliers.
+3. Distance-Based Methods: Utilizing distance metrics, such as Euclidean distance or Mahalanobis distance, to measure how far each data point is from the central tendency of the data.
+
+
+**Visualization Techniques:
+
+1. Box Plots
+2. Scatter Plots
+3. Histograms
