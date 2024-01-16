@@ -4,9 +4,13 @@
 </figure>
 
 
-Improve model accuracy: By providing clearer and more relevant features, the model can learn patterns and relationships more effectively, leading to better predictions.
-Reduce model complexity: Feature engineering can simplify the data, making it easier for simpler models to perform well, reducing training time and resource needs.
-Handle data issues: It helps address issues like missing values, outliers, and categorical data, ensuring smoother model training.
+   1. Improve model accuracy: By providing clearer and more relevant features, the model can learn patterns and relationships more 
+      effectively, leading to better predictions.
+      
+   2. Reduce model complexity: Feature engineering can simplify the data, making it easier for simpler models to perform well, reducing         training time and resource needs.
+
+   3. Handle data issues: It helps address issues like missing values, outliers, and categorical data, ensuring smoother model training.
+
 Types of Feature Engineering:
 
 Feature Selection: Choosing the most informative and relevant features from your data. This can involve statistical tests, correlation analysis, or domain knowledge.
