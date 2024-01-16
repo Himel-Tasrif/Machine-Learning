@@ -1,4 +1,10 @@
-#Improve model accuracy: By providing clearer and more relevant features, the model can learn patterns and relationships more effectively, leading to better predictions.
+# Feature Engineering
+<figure style="text-align: center;">
+  <img src="https://serokell.io/files/cf/cfkdnv2r.Feature__Engineering_pic1.png" alt="Machine Learning" width="500" height="250">
+</figure>
+
+
+Improve model accuracy: By providing clearer and more relevant features, the model can learn patterns and relationships more effectively, leading to better predictions.
 Reduce model complexity: Feature engineering can simplify the data, making it easier for simpler models to perform well, reducing training time and resource needs.
 Handle data issues: It helps address issues like missing values, outliers, and categorical data, ensuring smoother model training.
 Types of Feature Engineering:
