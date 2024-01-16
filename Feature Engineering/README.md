@@ -23,10 +23,10 @@ Types of Feature Engineering:
   
  Examples include:
  
-  i. Feature interactions: Combining features to capture non-linear relationships.
- ii. Binning: Grouping continuous features into discrete categories.
-iii. Dimensionality reduction: Techniques like PCA to reduce the number of features without losing significant information.
- iv. Feature Encoding: Converting categorical data into numerical values that the model can understand. Common methods include:
-  v. One-hot encoding: Creating binary features for each category.
- vi. Label encoding: Assigning unique integers to each category.
-vii. Frequency encoding: Encoding based on the frequency of each category.
+  i. Feature interactions
+ ii. Binning
+iii. Dimensionality reduction
+ iv. Feature Encoding
+  v. One-hot encoding
+ vi. Label encoding
+vii. Frequency encoding
