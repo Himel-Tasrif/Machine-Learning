@@ -1,1 +1,1 @@
-amamr ase jol 
+print('Himel')
