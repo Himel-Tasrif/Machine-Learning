@@ -8,4 +8,4 @@
 
 
 
-© All rights reserved by [Tasrif Nur Himel](https://www.tasrifnurhimel.me)
+All rights reserved by ©[Tasrif Nur Himel](https://www.tasrifnurhimel.me)
